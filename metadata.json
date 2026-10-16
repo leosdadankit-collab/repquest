@@ -1,0 +1,6 @@
+{
+  "name": "RepQuest",
+  "description": "Gamified home fitness adventure app tracking workouts, XP, levels, streaks, quests, and medals with barbell, dumbbells, and bodyweight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
